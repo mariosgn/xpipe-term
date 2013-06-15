@@ -2,12 +2,16 @@ X|Pipe - Graphical Terminal Emulator
 ==========
 
 X|Pipe is the attempt to merge a terminal emulator, a file manager and a launcher.
+
+
 A video of the working prototype is available at [vimeo](https://vimeo.com/68400623/)
 
 Source code and License
 ==========
 
 In short: GPL.
+
+
 The code is currently not available. There are too many bugs and the code is totally unstable. When all the basic features are ready, I will move my private git repo on github.
 
 Features
